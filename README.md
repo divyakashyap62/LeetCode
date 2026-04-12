@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyakashyap62/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
 | ------- |
