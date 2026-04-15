@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/divyakashyap62/LeetCode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0509-fibonacci-number](https://github.com/divyakashyap62/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -83,7 +86,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
