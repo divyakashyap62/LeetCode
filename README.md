@@ -42,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/divyakashyap62/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyakashyap62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -71,12 +72,14 @@
 | [0101-symmetric-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +93,7 @@
 | [0101-symmetric-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/divyakashyap62/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
