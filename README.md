@@ -29,6 +29,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/divyakashyap62/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyakashyap62/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/divyakashyap62/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyakashyap62/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
