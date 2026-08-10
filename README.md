@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
+| [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/divyakashyap62/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyakashyap62/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/divyakashyap62/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
