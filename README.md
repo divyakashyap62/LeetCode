@@ -27,6 +27,7 @@
 | ------- |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/divyakashyap62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyakashyap62/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/divyakashyap62/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -130,4 +131,8 @@
 | [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyakashyap62/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyakashyap62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/divyakashyap62/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
