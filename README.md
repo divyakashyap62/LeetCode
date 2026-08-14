@@ -50,6 +50,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/divyakashyap62/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -126,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/divyakashyap62/LeetCode/tree/master/0020-valid-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sliding Window
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/divyakashyap62/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
