@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/divyakashyap62/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/divyakashyap62/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/divyakashyap62/LeetCode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/divyakashyap62/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@
 | [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/divyakashyap62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/divyakashyap62/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/divyakashyap62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +57,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyakashyap62/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/divyakashyap62/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/divyakashyap62/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyakashyap62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/divyakashyap62/LeetCode/tree/master/0739-daily-temperatures) |
