@@ -58,6 +58,7 @@
 | [0225-implement-stack-using-queues](https://github.com/divyakashyap62/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyakashyap62/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/divyakashyap62/LeetCode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyakashyap62/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyakashyap62/LeetCode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyakashyap62/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sliding Window
 |  |
