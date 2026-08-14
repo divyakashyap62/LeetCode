@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/divyakashyap62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -141,4 +142,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyakashyap62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
