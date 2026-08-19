@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/divyakashyap62/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/divyakashyap62/LeetCode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/divyakashyap62/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyakashyap62/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyakashyap62/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/divyakashyap62/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0875-koko-eating-bananas](https://github.com/divyakashyap62/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyakashyap62/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
