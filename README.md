@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyakashyap62/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/divyakashyap62/LeetCode/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/divyakashyap62/LeetCode/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyakashyap62/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
