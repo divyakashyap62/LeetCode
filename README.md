@@ -31,6 +31,7 @@
 | [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/divyakashyap62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/divyakashyap62/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyakashyap62/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/divyakashyap62/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/divyakashyap62/LeetCode/tree/master/0136-single-number) |
 ## Stack
 |  |
 | ------- |
