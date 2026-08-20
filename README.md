@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/divyakashyap62/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/divyakashyap62/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/divyakashyap62/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/divyakashyap62/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/divyakashyap62/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/divyakashyap62/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/divyakashyap62/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
