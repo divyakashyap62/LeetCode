@@ -44,6 +44,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/divyakashyap62/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyakashyap62/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/divyakashyap62/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/divyakashyap62/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divyakashyap62/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyakashyap62/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyakashyap62/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
