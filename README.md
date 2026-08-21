@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/divyakashyap62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/divyakashyap62/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyakashyap62/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/divyakashyap62/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/divyakashyap62/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/divyakashyap62/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/divyakashyap62/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0162-find-peak-element](https://github.com/divyakashyap62/LeetCode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/divyakashyap62/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyakashyap62/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
