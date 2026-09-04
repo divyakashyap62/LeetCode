@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyakashyap62/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/divyakashyap62/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/divyakashyap62/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/divyakashyap62/LeetCode/tree/master/0136-single-number) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyakashyap62/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyakashyap62/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/divyakashyap62/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
